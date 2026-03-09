@@ -30,7 +30,7 @@ Le flux principal est organise autour de :
   - statistiques globales
   - top clients
   - graphique des virements par type
-- Seeders et factories pour generer des donnees de demo
+- Seeders et factories pour generer des données de demo
 
 ## Stack technique
 - Backend: PHP 8.2+, Laravel 12.36.1

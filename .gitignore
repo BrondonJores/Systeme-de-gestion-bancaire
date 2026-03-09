@@ -1,0 +1,22 @@
+# Dependances
+node_modules
+server/node_modules
+dist
+dist-ssr
+*.local
+
+# Variables d'environnement
+.env
+.env.local
+.env.*.local
+
+# Editeurs
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
